@@ -1,5 +1,5 @@
 /* Media query for small screens */
-@media (max-width: 767px) {
+@media (max-width: 765px) {
   #desktop-nav {
     display: none;
   }
