@@ -127,6 +127,10 @@
     margin-left: 2rem;
   }
 
+  .product-container-1s {
+    display: none;
+  }
+
   .section__text__p21 {
     text-align: left;
   }
