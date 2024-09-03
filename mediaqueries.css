@@ -21,7 +21,7 @@
   }
 
   .hamburger-icon {
-    margin-right: 2rem;
+    padding-block: 2rem;
   }
 
   a:hover::after {
