@@ -21,7 +21,7 @@
   }
 
   .hamburger-menu {
-    padding-right: 1rem;
+    margin-right: 1rem;
   }
 
   a:hover::after {
