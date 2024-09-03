@@ -4,6 +4,12 @@
     display: none;
   }
 
+  .header-container {
+    background-image: url(./Assets/image-4.png);
+    background-position: center;
+    margin: 0 auto;
+  }
+
   #hamburger-nav {
     display: flex;
     justify-content: space-between;
@@ -71,7 +77,7 @@
 
   .about-container {
     width: 300px;
-    height: 320px;
+    height: 330px;
     margin-left: -2rem;
   }
 
