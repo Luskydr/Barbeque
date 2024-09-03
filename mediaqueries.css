@@ -24,6 +24,10 @@
     padding-block: 2rem;
   }
 
+  .hamburger-menu {
+    margin-right: 2rem;
+  }
+
   a:hover::after {
     width: 20%;
   }
