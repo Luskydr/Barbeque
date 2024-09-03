@@ -4,10 +4,14 @@
     display: none;
   }
 
+  .container {
+    max-width: 100vw;
+    overflow-x: hidden;
+  }
+
   .header-container {
     background-image: url(./Assets/image-4.png);
     background-position: center;
-    margin: 0 auto;
   }
 
   #hamburger-nav {
