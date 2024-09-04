@@ -423,3 +423,40 @@ a:hover::after {
 .pic-con-1 {
   border-radius: 0.5rem;
 }
+
+/* CONTACT SECTION */
+#contact {
+  padding: 5rem;
+  display: flex;
+  flex-direction: column;
+  border-top: 1px solid black;
+}
+
+.contact-card {
+  display: flex;
+  gap: 3rem;
+  align-items: center;
+}
+
+.contact-details {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.details {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.details p {
+  color: black;
+}
+
+/* FOOTER SECTION */
+
+footer {
+  background-color: #fc540a;
+  color: white;
+}
