@@ -17,7 +17,7 @@
   #hamburger-nav {
     display: flex;
     justify-content: space-between;
-    padding-block: 2rem;
+    padding: 1rem;
   }
 
   a:hover::after {
@@ -28,7 +28,7 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-top: 3rem;
+    margin-top: 1rem;
     padding: 3rem;
   }
 
